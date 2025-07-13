@@ -26,3 +26,5 @@ RE (REGEX)	FOR PATTERN MATCHING IN USER QUERIES
 
 OUTPUT:
 
+<img width="960" height="600" alt="Image" src="https://github.com/user-attachments/assets/d91d5af2-6a77-4a5c-96e1-51020a05ae34" />
+
